@@ -68,7 +68,9 @@ sito e backoffice, si usano e non si modificano di passaggio.
 Il repo è diviso in aree, e ognuna ha un responsabile. Tocca solo l'area su cui
 stai lavorando: se ti serve un file di un'altra, fermati e segnalalo.
 
-<!-- TODO: scrivere il responsabile di ogni area prima di cominciare. -->
+- Sito pubblico: Fabio
+- Backoffice, elenco: Mario
+- Backoffice, editor: Peter
 
 | Area | Responsabile | File |
 |---|---|---|
@@ -103,14 +105,14 @@ Commit piccoli, messaggi in inglese in formato conventional commit.
 <!-- TODO: tre scelte aperte. Decidetele prima di scrivere codice, perché
      toccano più di un'area. Sostituite "da decidere" con la risposta. -->
 
-- **formato di `content`**: da decidere — testo semplice o markdown
-- **ordinamento in `/admin/posts`**: da decidere — data di modifica o titolo
-- **conferma prima di cancellare**: da decidere — sì o no
+- **formato di `content`**: semplice
+- **ordinamento in `/admin/posts`**: titolo
+- **conferma prima di cancellare**: no
 
 ## Skill di design
 
-<!-- TODO: il nome della skill usata per i componenti condivisi, così chi
-     arriva dopo sa con cosa sono stati fatti e non ne usa un'altra. -->
+frontend-design
+
 
 - **nome**: da compilare
 
